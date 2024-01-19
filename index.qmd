@@ -1,5 +1,5 @@
 ---
-title: "Pengaruh Moda Transportasi Laut Terhadap Nilai Ekspor Indonesia"
+title: "Pengaruh Moda Transportasi Laut Terhadap Nilai Ekspor Indonesia 2014-2022"
 subtitle: "Metode Penelitian Politeknik APP Jakarta"
 author: "Renika Ayu Puspita Sari"
 date: 2024-01-13
